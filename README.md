@@ -8,16 +8,17 @@ That said, yes—I do wander out into distant worlds from time to time... :)
 If you’re looking for something specific, you’ll likely find it in the **Repositories** section, so go ahead and start there.
 
 ---
-
+I do follow up on stuff but incase I leave out or else if you
 ### Want to talk?
 
 - **LinkedIn:** https://www.linkedin.com/in/volantethakur  
 - **Email:** volantethakur@gmail.com
 
 ---
-
 Anyway, this was **Adwait Bhardwaj**  
 *(aka. vt-abt)*
+
+---
 
 This GitHub account was originally used only by me as one of several personal accounts. Since then, due to a series of events, multiple accounts have been merged and organized into this single profile:
 
