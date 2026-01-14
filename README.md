@@ -11,7 +11,7 @@ If you’re looking for something specific, you’ll likely find it in the **Rep
 I do follow up on stuff but incase I leave out or else if you
 ### Want to talk?
 
-- **LinkedIn:** https://www.linkedin.com/in/volantethakur  
+- **LinkedIn:** https://www.linkedin.com/in/volantethakur or https://www.linkedin.com/in/adwaitbhardwaj
 - **Email:** volantethakur@gmail.com
 
 ---
