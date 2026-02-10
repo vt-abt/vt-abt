@@ -22,7 +22,7 @@ Anyway, this was **Adwait Bhardwaj**
 
 This GitHub account was originally used only by me as one of several personal accounts. Since then, due to a series of events, multiple accounts have been merged and organized into this single profile:
 
-`/volantethakur`, `/vnr517`, `/cspectreman`, `/clipper-spectreman`, `/nevermind0102`, `/sceptre-ab`, and `/vnr517-b-side`
+`/volantethakur`, `/vnr517`, `/cspectreman`, `/clipper-spectreman`, `/nevermind0102`,`/vt-abt-alt`,`/vt-abt-volante`, `/sceptre-ab`, and `/vnr517-b-side`
 
 All projects hosted here may belong to individual efforts or teams of individuals.  
 However, the profile itself is exclusively hosted on behalf of:
