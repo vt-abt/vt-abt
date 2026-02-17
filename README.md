@@ -29,6 +29,7 @@ I wish to avoid getting too personal, but alot of work done and hosted by this a
 All projects here may stem from individual efforts or teams. The profile itself is maintained with care on behalf of those shared journeys.
 
 *Adwait and Aishwarya* (A&A Clipper)
+
 Any inconvenience caused by this consolidation is regretted.
 ---
 
