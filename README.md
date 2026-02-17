@@ -31,6 +31,7 @@ All projects here may stem from individual efforts or teams. The profile itself 
 *Adwait and Aishwarya* (A&A Clipper)
 
 Any inconvenience caused by this consolidation is regretted.
+
 ---
 
 I hope this corner of the internet serves your purpose or duty that you have bestowed upon yourselves, or just for fun, Anyways, moving on...
