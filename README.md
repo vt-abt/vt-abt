@@ -25,12 +25,11 @@ Anyway, this was **Adwait Bhardwaj**
 
 This GitHub account has evolved over time. What began as one of my personal profiles has, through various events and transfers, become a consolidated home for several accounts that were once separate: `/volantethakur`, `/vnr517`, `/cspectreman`, `/clipper-spectreman`, `/nevermind0102`, `/vt-abt-alt`, `/vt-abt-alt-alt`, `/sceptre-ab`, and `/vnr517-b-side`.  
 
-Many of those repositories carry pieces of work and memories from both myself and someone very dear who is no longer with us—Aishwarya Saha (vnr517). This space now quietly holds both our contributions together.
+I wish to avoid getting too personal, but alot of work done and hosted by this account was worked upon by @vnr517. These string of account mergers were not planned, not were they expected. But since what happened, happened, I wish to continue with these memories, however bittersweet they may be, for the betterment of all. 
+All projects here may stem from individual efforts or teams. The profile itself is maintained with care on behalf of those shared journeys.
 
-All projects here may stem from individual efforts or small teams. The profile itself is maintained with care on behalf of those shared journeys.
-
+*Adwait and Aishwarya* (A&A Clipper)
 Any inconvenience caused by this consolidation is regretted.
-
 ---
 
-I hope this little corner of the internet serves you well—whether you're exploring code, chasing ideas, or just passing through.
+I hope this corner of the internet serves your purpose or duty that you have bestowed upon yourselves, or just for fun, Anyways, moving on...
