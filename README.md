@@ -1,6 +1,6 @@
 ![Header image description](./header1.png)
 
-## Salutations, as you will
+## Salutations, as you will...
 
 I do try to keep things professional, but sometimes it’s alright to wander off into distant worlds—ideas and illusions that may turn into reality someday. Turning those into reality is a constant effort, but okay, I guess -?  
 Most of my work is centered around **cybersecurity** in general.  
