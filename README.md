@@ -1,12 +1,6 @@
 Salutations, as you will...
 
-Welcome to my corner of the internet. Some things begin as ideas, others as experiments, and a few as rather unreasonable ambitions. Whether they turn into something worthwhile is another matter altogether.
-
-I'm Adwait Bhardwaj, also known as vt or vt-abt.
-
-My work primarily revolves around low-level systems, cloud infrastructure, and cybersecurity, with interests extending into operating systems, networking, systems engineering, and the occasional experiment beyond these boundaries.
-
-I spend much of my time understanding how things work, why they work, and occasionally building something of my own. Some projects are practical, others experimental, and a few exist simply because curiosity got the better of me.
+I'm Adwait Bhardwaj, also known as vt or vt-abt. My work primarily revolves around low-level systems, cloud infrastructure, and cybersecurity, with interests spanning operating systems, networking, and systems engineering. I spend much of my time exploring how things work beneath their abstractions, occasionally building something of my own.
 
 I believe knowledge ought to be shared. What remains closed may still be valuable, much like a closely guarded recipe, but I find it difficult to call it a contribution to collective knowledge. Both vt and vnr believed that working for society also means giving something back to it. Open source is one way we chose to do so.
 
