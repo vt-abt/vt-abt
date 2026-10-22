@@ -13,6 +13,7 @@ For discussions, collaborations, technical questions, or anything worth a conver
 - Email: volantethakur@gmail.com or cdtadwaitbhardwaj@outlook.in
 
 ---
-regards
+Regards
+
 adwait and aishwarya
 (A&A Clipper)
